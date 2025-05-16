@@ -1,0 +1,21 @@
+# HireOS Core
+
+Welcome to the **HireOS Core**, the foundational backend and API services powering the AI-driven career platform **HireOS** — where talent meets opportunity with intelligence.
+
+## What is HireOS?
+
+HireOS is an AI-powered career SaaS platform that enables users to:
+- Generate professional resumes and cover letters
+- Discover personalized career paths
+- Access a freelancer-friendly micro-service marketplace
+- Apply and offer services powered by automation
+
+## Tech Stack
+
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **JWT & OAuth**
+- **AI Integrations (OpenAI, LangChain)**
+
+## Project Structure
